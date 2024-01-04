@@ -1,0 +1,13 @@
+.pic{
+    height:600px;
+    width:800px;
+    background-color: aqua;
+}
+
+#picc{
+    height: 200px;
+    width:200px;
+    padding-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
